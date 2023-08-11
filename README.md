@@ -1,5 +1,5 @@
-### Hi there, I'm Askan 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IkuzaDev.IkuzaDev)
+### Hi there, I'm Ikuza 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IkuzaDev)
 
 ### Connect with me:
 
