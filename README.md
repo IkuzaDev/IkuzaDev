@@ -1,5 +1,5 @@
 ### Hi there, I'm Ikuza 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IkuzaDev.TikViews)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=IkuzaDev.TikViews)](https://visitor-badge.laobi.icu/badge?page_id=IkuzaDev.TikViews)
 
 <br />
 
