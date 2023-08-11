@@ -1,5 +1,4 @@
-### Hi there, I'm Ikuza 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IkuzaDev.TikViews)
+### Hi there, I'm Ikuza 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IkuzaDev.TikViews)
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkuzaDev&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
