@@ -1,11 +1,6 @@
 ### Hi there, I'm Ikuza 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IkuzaDev.TikViews)
 
-### Connect with me:
-
-[<img align="left" alt="@askan_28" width="22px" src="https://raw.githubusercontent.com/askanakmala/template_me/main/ig_icon.png" />][Instagram]
-[<img align="left" alt="@akn_28" width="22px" src="https://raw.githubusercontent.com/askanakmala/template_me/main/logotype-telegram-round-blue-logo-512.webp" />][Telegram]
-
 <br />
 
 ### Languages and Tools:
