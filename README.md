@@ -25,8 +25,7 @@ Welcome to my digital playground!
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkuzaDev&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![IkuzaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=IkuzaDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkuzaDev&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![IkuzaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=IkuzaDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
