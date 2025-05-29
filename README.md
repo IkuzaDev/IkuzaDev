@@ -31,9 +31,9 @@ Welcome to my digital playground!
 
 ### 📫 Let's Connect!
 
-- ✉️ Email: [youremail@example.com](mailto:youremail@example.com)
-- 🌐 Website: [ikuza.dev](https://ikuza.dev) *(optional)*
-- 💬 DM me on [Telegram](https://t.me/yourtelegram) *(optional)*
+- ✉️ Email: [IkuzaDev](mailto:dragon.studio.official@gmail.com)
+- 🌐 Website: [d5studio.my.id](https://d5studio.my.id) *(optional)*
+- 💬 DM me on [Telegram](https://t.me/IkuzaDev_ID) *(optional)*
 
 ---
 
